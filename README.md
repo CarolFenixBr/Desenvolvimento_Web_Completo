@@ -26,7 +26,10 @@ Conheça o curso mais COMPLETO da Udemy, que reúne o Desenvolvimento Web front-
 
 
 
-Confira abaixo os cursos e os projetos do pacote de Desenvolvimento Web Completo:
+## link do curso🔗
+https://www.udemy.com/course/web-completo/
+
+### Confira abaixo os cursos e os projetos do pacote de Desenvolvimento Web Completo:
 
 1) HTML5
 
