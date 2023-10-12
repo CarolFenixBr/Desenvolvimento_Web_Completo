@@ -22,8 +22,6 @@ API com framework Slim: requisições, rotas, dependências, middleware, respost
 SAAS: alinhamento, variáveis, interpolação, for, while, each, funções, mixin, herança, diretivas de controle.<br>
 IONIC: componentes, botões, entrada de dados, data biding, angular, grids, navegação e modelo.<br>
 WordPress: instalação, temas, personalização, plugins, usuários, comentários, criador de páginas com elementor.<br>
-Conheça o curso mais COMPLETO da Udemy, que reúne o Desenvolvimento Web front-end e back-end além de aplicações mobile, tudo na pratica.
-
 
 
 ## link do curso🔗
