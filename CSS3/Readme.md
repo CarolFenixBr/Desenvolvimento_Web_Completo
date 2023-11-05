@@ -8,6 +8,7 @@
   Aula 05: Fontes e cores; <br>
   Aula 06: Tamanhos de textos; <br>
   Aula 07: Estilos de textos; <br>
+  Aula 08: Cor e imagem; <br>
 </p>
 
 <h2>🗂️Materias de apoio</h2>
