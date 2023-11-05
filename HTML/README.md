@@ -3,7 +3,7 @@
 <p>
   Aula 01: Estrutura Web parte 1; <br>
   Aula 02: Estrutura Web parte 2; <br>
-  Aula 03: Cabeçalhos; <br>
+  Aula 03: Cabeçalhos, imagens; <br>
   Aula 04: Parágrafos, Links; <br>
   Aula 05: Tabelas; <br>
   Aula 06: Formulários; <br>
