@@ -1,0 +1,19 @@
+body{
+		/*
+		px -> tamanho fixo
+		% -> tamanho relativo
+		em -> tamanho relativo ao container pai
+		 */
+		font-size: 40px;
+		font-family: monospace;
+		background-color: darkblue;
+		color: white;	
+		
+		
+
+	}	
+
+	.fundo{
+		background: blueviolet;
+		
+	}
