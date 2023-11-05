@@ -1,4 +1,15 @@
-<h1>Materias de apoio</h1>
+<h1>📁Conteúdo</h1>
+<h2>🖥️Aulas:</h2>
+<p>
+  Aula 01: Seletores CSS; <br>
+  Aula 02: Classes e IDs; <br>
+  Aula 03: Divs e Span; <br>
+  Aula 04: Bordas; <br>
+  Aula 05: Fontes e cores; <br>
+  Aula 06: Tamanhos de textos; <br>
+</p>
+
+<h2>🗂️Materias de apoio</h2>
 
 ![regras-css](https://github.com/CarolFenixBr/Desenvolvimento_Web_Completo/assets/89542446/408263e4-0f4a-4585-a280-eb208fb0cce0)
 
