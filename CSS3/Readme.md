@@ -19,5 +19,6 @@
   🔸https://www.w3schools.com/css/css_border.asp <br>
   🔸https://www.w3schools.com/css/css_font.asp <br>
   🔸https://html-color-codes.info/Codigos-de-Cores-HTML/ <br>
+  🔸https://www.w3schools.com/cssref/pr_font_font.php <br>
   
 </p>
