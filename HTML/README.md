@@ -4,8 +4,8 @@
   Aula 01: Estrutura Web parte 1; <br>
   Aula 02: Estrutura Web parte 2; <br>
   Aula 03: Cabeçalhos; <br>
-  Aula 04: Parágrafos; <br>
-  Aula 05: Formatação de textos; <br>
+  Aula 04: Parágrafos, Links; <br>
+  Aula 05: Tabelas; <br>
   Aula 06: Lista ordenadas e não ordenadas; <br>
   Aula 07: Test
 </p>
