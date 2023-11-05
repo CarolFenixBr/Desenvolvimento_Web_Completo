@@ -6,8 +6,9 @@
   Aula 03: Cabeçalhos; <br>
   Aula 04: Parágrafos, Links; <br>
   Aula 05: Tabelas; <br>
-  Aula 06: Lista ordenadas e não ordenadas; <br>
-  Aula 07: Formulários
+  Aula 06: Formulários; <br>
+  Aula 07: Formulários com mais conteúdos; <br>
+  Aula 08: Caracteres especiais; <br>
 </p>
 
 <h2>🗂️Materias de apoio</h2>
