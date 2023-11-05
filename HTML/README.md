@@ -7,7 +7,7 @@
   Aula 04: Parágrafos, Links; <br>
   Aula 05: Tabelas; <br>
   Aula 06: Lista ordenadas e não ordenadas; <br>
-  Aula 07: Test
+  Aula 07: Formulários
 </p>
 
 <h2>🗂️Materias de apoio</h2>
