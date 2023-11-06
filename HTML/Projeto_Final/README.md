@@ -7,7 +7,7 @@
 
 ![image](https://github.com/CarolFenixBr/Desenvolvimento_Web_Completo/assets/89542446/1ccf2fd6-8a4d-421e-becd-09b43e405361)
 
-<h3>quem somos.html
+<h3>quem somos.html</h3>
 
 ![image](https://github.com/CarolFenixBr/Desenvolvimento_Web_Completo/assets/89542446/2ec5df59-a44c-4d79-87a7-5fcd193845b9)
 
