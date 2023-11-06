@@ -29,7 +29,7 @@ https://www.udemy.com/course/web-completo/
 
 ### Confira abaixo os cursos e os projetos do pacote de Desenvolvimento Web Completo:
 
-1) HTML5
+1) HTML5 ✅
 
 - Projeto UNES (Página institucional de uma universidade)
 
