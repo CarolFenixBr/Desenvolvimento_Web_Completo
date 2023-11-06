@@ -8,7 +8,8 @@
   Aula 05: Tabelas; <br>
   Aula 06: Formulários; <br>
   Aula 07: Formulários com mais conteúdos; <br>
-  Aula 08: Caracteres especiais. <br>
+  Aula 08: Caracteres especiais. <br><br>
+  Projeto Final: Criação de um site somente com html.<br>
 </p>
 
 <h2>🗂️Materias de apoio</h2>
