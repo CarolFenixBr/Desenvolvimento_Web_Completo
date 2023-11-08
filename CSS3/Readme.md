@@ -10,6 +10,7 @@
   Aula 07: Estilos de textos; <br>
   Aula 08: Cor e imagem; <br>
   Aula 09: Css externo; <br>
+  Projeto: Anna Bella <br>
 </p>
 
 <h2>🗂️Materias de apoio</h2>
