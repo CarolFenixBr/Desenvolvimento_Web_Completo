@@ -10,6 +10,8 @@
   Aula 07: Estilos de textos; <br>
   Aula 08: Cor e imagem; <br>
   Aula 09: Css externo; <br>
+  Aula 10: Modelo de Caixa; <br>
+  Aula 11: Elementos Flutuantes <br>
   Projeto: Anna Bella <br>
 </p>
 
