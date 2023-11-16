@@ -12,6 +12,7 @@
   Aula 09: Css externo; <br>
   Aula 10: Modelo de Caixa; <br>
   Aula 11: Elementos Flutuantes <br>
+  Aula 11 : Prática Elementos Flutuantes <br>
   Projeto: Anna Bella <br>
 </p>
 
